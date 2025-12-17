@@ -6,3 +6,5 @@ Le projet réalisé par les étudiantes et étudiants du BUT MMI pour la [situat
 La base de données doit contenir une table messages, fournie dans le fichier `messages.sql`.
 
 Le fichier `api.php` doit être personnalisé en modifiant les informations de connexion à la base de données et en indiquant le nom et l'adresse de courriel de la personne responsable des traitements de données à caractère personnel.
+
+Démo : https://gambette.butmmi.o2switch.site/api.php
